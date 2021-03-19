@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abbigailmerrill
+- 👀 I’m interested in front-end web development, UI/UX design
+- 🌱 I’m currently learning react.js frameworks
+- 💞️ I’m looking to collaborate on projects with other entry level web developers
+- 📫 How to reach me:abbigail.merrill@gmail.com
