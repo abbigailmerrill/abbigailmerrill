@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbigailmerrill
-- 👀 I’m interested in front-end web development, UI/UX design
-- 🌱 I’m currently learning react.js frameworks
-- 💞️ I’m looking to collaborate on projects with other entry level web developers
+- 👀 I’m interested in front-end web development, UI/UX design, and I hold a Master's of Science in Media Arts and Sciences from IUPUI
+- 🌱 I’m currently learning working at Wunderkind, formerly BounceX
+- 💞️ I’m looking to collaborate on projects and am always willing to learn
 - 📫 How to reach me:abbigail.merrill@gmail.com
