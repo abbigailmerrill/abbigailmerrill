@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @abbigailmerrill
-- 👀 I’m interested in front-end web development, UI/UX design, and I hold a Master's of Science in Media Arts and Sciences from IUPUI, and I teach there as an adjunct professor in their new web Development certificate bootcamp. Please email me at aemerril@iu.edu if you want to know more! :) 
-- 🌱 I previously was working at Wunderkind as a software engineer in Visual Integrations!
-- 💞️ I’m looking to collaborate on any project and am always willing to learn- make memories, and most importantly new friends!
-- 📫 How to reach me: abbigail.merrill@gmail.com
+- 👀 I have my Bacherlor's and  Master's of Science in Media Arts and Sciences from IUPUI, where I currently teach as an adjunct professor in their web Development certificate bootcamp. 
+#About Me
+- 🌱 Previously a Software Engineer at Wunderkind!
+- 💞️ I'm updating my skills, and trying to become a better person!
+-- As my favorite show says- "Bit by bit the little blackbird builds a nest"
+- 📫 How to reach me: communications temporarily on pause. 
