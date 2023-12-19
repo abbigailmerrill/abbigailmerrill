@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abbi! -> @abbigailmerrill 
-- 👀 Bachelor's and  Master's of Science in Media Arts and Sciences from IUPUI
+- 👀 Bachelor's and  Master's of Science in Media Arts and Sciences from IU Indianapolis
 - 💞️ "If every pork chop were perfect, we wouldn't have Hot Dogs" - Steven Universe (my favorite show!)
 
 # About Me
