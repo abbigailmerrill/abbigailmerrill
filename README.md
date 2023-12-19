@@ -7,4 +7,5 @@
 - 🌱 Previously a Software Engineer for [Wunderkind](https://www.wunderkind.co/)
 - 😸 Previously a Web Developer and Database developer at [AlienThinkers](http://www.alienthinkers.com/creative-team.html) for Vigilant Veil
 - 🏫 Previously an iD Tech Instructor on Butler's campus. View iD Tech programs [here](https://www.idtech.com/)
+- 📚 Previously a Roblox coding instructor with TestingMom.com, see their programs [here](https://www.testingmom.com/)
 - 📫 How to reach me: abbigail.merrill@gmail.com
