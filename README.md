@@ -16,7 +16,7 @@
 - ✈️ I have been skydiving
 - 🌎 My dream place to live is Seattle
 - I have 5 cats, and two dogs!
-- ![Cat22GIF](https://github.com/abbigailmerrill/abbigailmerrill/assets/79755859/aa26e460-ab44-43ac-8a00-f471c51f5fbe)
+![Cat22GIF](https://github.com/abbigailmerrill/abbigailmerrill/assets/79755859/aa26e460-ab44-43ac-8a00-f471c51f5fbe)
 
 
 
