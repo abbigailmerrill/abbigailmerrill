@@ -2,6 +2,10 @@
 - 👀 Bachelor's and  Master's of Science in Media Arts and Sciences from IU Indianapolis
 - 💞️ "If every pork chop were perfect, we wouldn't have Hot Dogs" - Steven Universe (my favorite show!)
 
+#My Professional Socials
+- 📠 See my Frontend Mentor [profile](https://www.frontendmentor.io/profile/abbigailmerrill)
+- 💻 See my hackerrank [profile](https://www.hackerrank.com/profile/abbigail_merrill)
+
 # About Me
 - 📑 Adjunct Instructor for IU Indy's Web Dev Certificate Bootcamp! [My IU Indy Profile](https://luddy.iupui.edu/contact/profile/abbigail-merrill) | [Certificate Details](https://luddy.iupui.edu/degrees/certificates/development.html)
 - 🌱 Previously a Software Engineer for [Wunderkind](https://www.wunderkind.co/)
