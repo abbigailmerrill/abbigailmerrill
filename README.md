@@ -2,7 +2,7 @@
 - 👀 Bachelor's and  Master's of Science in Media Arts and Sciences from IU Indianapolis
 - 💞️ "If every pork chop were perfect, we wouldn't have Hot Dogs" - Steven Universe (my favorite show!)
 
-#My Professional Socials
+# My Professional Socials
 - 📠 See my Frontend Mentor [profile](https://www.frontendmentor.io/profile/abbigailmerrill)
 - 💻 See my hackerrank [profile](https://www.hackerrank.com/profile/abbigail_merrill)
 
